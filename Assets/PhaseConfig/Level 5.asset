@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d02373b6d448543a2a3f4021757218, type: 3}
+  m_Name: Level 5
+  m_EditorClassIdentifier: 
+  emails:
+  - Remetente: anonimo@mail.com
+    Conteudo: "ATEN\xC7\xC3O EU HACKIEI TODOS SEUS DISPOSITIVOS, PRECISO QUE ENTRE
+      EM CONTATO COMIGO AGORA PARA NAO ACONTECER BESTEIRA Clique neste link <www.HACKIEI.com>."
+    IsPhishing: 1
+  - Remetente: cofr#@mail.com
+    Conteudo: "Parabens, voce ganhou nossa promo\xE7\xE3o de ver\xE3o. Resgate seu
+      pr\xEAmio"
+    IsPhishing: 1
+  - Remetente: 'anonimo@mail.com '
+    Conteudo: Minha netinha, estou mandando esse email para falar que irei deixar
+      a minha heranca para voce. voce precisa so assinar esse documento. Preciso
+      disso ate hoje
+    IsPhishing: 1
+  - Remetente: programacaojr@mail.com
+    Conteudo: "Ol\xE1 Joana, recebi seu c\xF3digo para o front-end do menu do novo
+      app da empresa. \nEstou compartilhando com voc\xEA as corre\xE7\xF5es que realizei.
+      Continue assim, est\xE1 indo muito bem!!!   \n\nAtenciosamente, \nJasson J\xFAnior
+      \nEng. de Software S\xEAnior"
+    IsPhishing: 0
+  - Remetente: cofre@mail.com
+    Conteudo: "Prezada Joana, conforme solicitado no nosso app, no dia 12.05, estamos
+      lhe encaminhando o boleto do acordo de sua d\xEDvida.\n\nAtenciosamente, \nEquipe
+      de Cobran\xE7as Cofre"
+    IsPhishing: 0
+  - Remetente: sombom@mail.com
+    Conteudo: "Est\xE1 feito!! Voc\xEA \xE9 a mais nova assinante do melhor streaming
+      de m\xFAsicas do mundo!! \nPara finalizar, vamos criar o seu perfil musical.
+      Acesse nosso app, ou clique aqui.  \n\nCom muita alegria, \nEquipe SomBom"
+    IsPhishing: 0
+  - Remetente: f0t0z@mail.com
+    Conteudo: Voce recebeu uma nova mensagem no FOTOZ, clique aqui!!!
+    IsPhishing: 1
+  - Remetente: s)mb)m@mail.com
+    Conteudo: "Pagamento n\xE3o identificado!!! Clqiue aqui e regularize sua situa\xE7\xE3o"
+    IsPhishing: 1
+  - Remetente: shooop10@mail.com
+    Conteudo: "VOCE GANHOU UMA GRANDE PROMO\xC7AO, CLIQUE AQUIU"
+    IsPhishing: 1
+  - Remetente: pagorapido@mail.com
+    Conteudo: "Prezada Joana, sua fatura do m\xEAs j\xE1 est\xE1 disponivel no nosso
+      app MeuPagamento. \n\nAtenciosamente, \nEquipe da PagoRapido"
+    IsPhishing: 0
+  - Remetente: Y@mail.com
+    Conteudo: "Veja as novas atualiza\xE7\xF5es do mundo na sua timeline. \nConte\xFAdos
+      novos est\xE3o te esperando no nosso app Y. \n\nAtenciosamente, \nEquipe da
+      Y"
+    IsPhishing: 0
+  - Remetente: megafilmes@mail.com
+    Conteudo: "Do cinema para a sua casa. \nO novo filme, Tempo: As 4 Pedras, j\xE1
+      est\xE1 disponivel.\n\nAtenciosamente, \nEquipe da MegaFilmes"
+    IsPhishing: 0
+  requiredScoreToAdvance: 10

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d02373b6d448543a2a3f4021757218, type: 3}
+  m_Name: Level 1
+  m_EditorClassIdentifier: 
+  emails:
+  - Remetente: pagorapido@mail.com
+    Conteudo: "N\xE3o se esque\xE7a de pagar a fatura desse m\xEAs! \nCaso queira
+      obter a 2\xAA via do seu boleto, acesse o nosso site: www.pagorapido.com.br 
+      \n\nAtenciosamente, \nEquipe PagoRapido"
+    IsPhishing: 0
+  - Remetente: sh00p10@mail.com
+    Conteudo: "Compra confirmada!!! \nPara acompanhar o seu pedido, acesso o link:
+      www.shop10.com"
+    IsPhishing: 1
+  - Remetente: rhjr@mail.com
+    Conteudo: "Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se
+      do seu nome completo, CPF, n\xFAmero da Carteira de Trabalho e endere\xE7o
+      residencial. \nPor gentileza, me envie at\xE9 a tarde de hoje.  \n\nAtenciosamente,
+      \nAna Rosa Soares\n Analista de RH"
+    IsPhishing: 0
+  requiredScoreToAdvance: 0

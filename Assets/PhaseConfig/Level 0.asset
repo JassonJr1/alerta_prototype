@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58d02373b6d448543a2a3f4021757218, type: 3}
+  m_Name: Level 0
+  m_EditorClassIdentifier: 
+  emails:
+  - Remetente: pagorapido@mail.com
+    Conteudo: "Traga seu s\xE1lario para o seu banco preferido! \nPara finalizar
+      essa etapa, preencha o restante do f\xF3rmulario no app Meu Pagamento. \n\nAtenciosamente,
+      \nMara Rebou\xE7as \nGerente de relacionamento Banco PagoRapido"
+    IsPhishing: 0
+  - Remetente: santoandre@mail.com
+    Conteudo: 'Segue o estrato desse mes no site: www.santoandre.com'
+    IsPhishing: 1
+  - Remetente: 'financeirojr@mail.com '
+    Conteudo: "Segue em anexo a planilha com o faturamento desse m\xEAs.\n\nAtenciosamente,
+      \nMauro Pontes \nAssistente Financeiro"
+    IsPhishing: 0
+  - Remetente: pagorapido@mail.com
+    Conteudo: "Ol\xE1 Hannah, seu pagamento foi confirmado. \nObrigado por usar o
+      PagoRapido.  \n\nAtenciosamente, \nEquipe PagoRapido"
+    IsPhishing: 0
+  - Remetente: santoandre@mail.com
+    Conteudo: "Ol\xE1, houve um problema com seu pagamento. Clique aqui para resolver:
+      www.santoandre.com"
+    IsPhishing: 1
+  - Remetente: 'shop10@de11.com '
+    Conteudo: "Confira nossas super promo\xE7\xF5es no site www.shop10.com"
+    IsPhishing: 1
+  - Remetente: fotoz@mail.com
+    Conteudo: "Prezada Hannah, detectamos uma nova atividade na sua conta. \nSe n\xE3o
+      foi voc\xEA, entre em contato conosco. \n\nAtenciosamente, \nEquipe da Fotoz"
+    IsPhishing: 0
+  - Remetente: rostinho@mail.com
+    Conteudo: "Voc\xEA recebeu uma nova mensagem no seu Rostinho. \nAcesse sua conta
+      para ler.\n\nAtenciosamente,\nEquipe do Rostinho"
+    IsPhishing: 0
+  - Remetente: f0t0Z@mail.com
+    Conteudo: "Prezado Hannah, precisamos que voc\xEA atualize suas informa\xE7\xF5es
+      pessoais. "
+    IsPhishing: 1
+  - Remetente: financagr@mail.com
+    Conteudo: "Prezada Hannah, precisamos que voc\xEA n\xF3s mande todos os seus
+      dados para listarmos no quadro de funcionarios nesse email"
+    IsPhishing: 1
+  - Remetente: Y@mail.com
+    Conteudo: "URG\xCANCIA!!! \nPrezada Hannah, sua conta ser\xE1 suspensa se n\xE3o
+      agir agora. Clique aqui para resolver: WWW.YY.COM"
+    IsPhishing: 1
+  - Remetente: blusausa@mail,com
+    Conteudo: "Aproveite nosso desconto exclusivo antes que ele acabe. \nInscreva-se
+      agora no nosso site!!!\n\nAtenciosamente, \nBlusa Usa"
+    IsPhishing: 0
+  requiredScoreToAdvance: 0

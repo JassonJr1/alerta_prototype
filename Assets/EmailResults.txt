@@ -1,0 +1,1937 @@
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  Atenciosamente, Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. Por gentileza, me envie até a tarde de hoje.  Atenciosamente, Ana Rosa Soares Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Pontuação Final: 0
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Traga seu sálario para o seu banco preferido! Para finalizar essa etapa, preencha o restante do fórmulario no app Meu Pagamento. Atenciosamente, Mara Rebouças Gerente de relacionamento Banco PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: santoandre@mail.com
+Conteúdo: Segue o estrato desse mes no site: www.santoandre.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: financeirojr@mail.com 
+Conteúdo: Segue em anexo a planilha com o faturamento desse mês. Atenciosamente, Mauro Pontes Assistente Financeiro
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: pagorapido@mail.com
+Conteúdo: Olá Hannah, seu pagamento foi confirmado. Obrigado por usar o PagoRapido.  Atenciosamente, Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: santoandre@mail.com
+Conteúdo: Olá, houve um problema com seu pagamento. Clique aqui para resolver: www.santoandre.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: shop10@de11.com 
+Conteúdo: Confira nossas super promoções no site www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: fotoz@mail.com
+Conteúdo: Prezada Hannah, detectamos uma nova atividade na sua conta. Se não foi você, entre em contato conosco.  Atenciosamente, Equipe da Foto
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rostinho@mail.com
+Conteúdo: Você recebeu uma nova mensagem no seu Rostinho. Acesse sua conta para ler.
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: f0t0Z@mail.com
+Conteúdo: Prezado Hannah, precisamos que você atualize suas informações pessoais. 
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: financagr@mail.com
+Conteúdo: Prezada Hannah, precisamos que você nós mande todos os seus dados para listarmos no quadro de funcionarios nesse email
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: Y@mail.com
+Conteúdo: URGÊNCIA!!! Prezada Hannah, sua conta será suspensa se não agir agora. Clique aqui para resolver: WWW.YY.COM
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: blusausa@mail,com
+Conteúdo: Aproveite nosso desconto exclusivo antes que ele acabe. Inscreva-se agora no nosso site!!!. Atenciosamente, Blusa Usa
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 120
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  Atenciosamente, Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. Por gentileza, me envie até a tarde de hoje.  Atenciosamente, Ana Rosa Soares Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 25
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Pontuação Final: 0
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Pontuação Final: -15
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 5
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: -10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: -10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Pontuação Final: -10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: -10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: -10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: -10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: f0t0z@mail.com
+Conteúdo: Prezado Lucas, precisamos que você atualize sua conta.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: blUs@Us@@ub3r.com
+Conteúdo: Olá Lucas, houve um problema com sua última compra na BLUSA USA. Clique aqui para resolver.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: shop10@mail.com
+Conteúdo: Confira as últimas novidades da Shop10. 
+Acesse nosso app e descubra novas promoções!!
+
+Atenciosamente, 
+Equipe Shop10
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 10
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: ATENÇÃO EU HACKIEI TODOS SEUS DISPOSITIVOS, PRECISO QUE ENTRE EM CONTATO COMIGO AGORA PARA NAO ACONTECER BESTEIRA Clique neste link <www.HACKIEI.com>.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: cofr#@mail.com
+Conteúdo: Parabens, voce ganhou nossa promoção de verão. Resgate seu prêmio
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: anonimo@mail.com 
+Conteúdo: Minha netinha, estou mandando esse email para falar que irei deixar a minha heranca para voce. voce precisa so assinar esse documento. Preciso disso ate hoje
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: programacaojr@mail.com
+Conteúdo: Olá Joana, recebi seu código para o front-end do menu do novo app da empresa. 
+Estou compartilhando com você as correções que realizei. Continue assim, está indo muito bem!!!   
+
+Atenciosamente, 
+Jasson Júnior 
+Eng. de Software Sênior
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: cofre@mail.com
+Conteúdo: Prezada Joana, conforme solicitado no nosso app, no dia 12.05, estamos lhe encaminhando o boleto do acordo de sua dívida.
+
+Atenciosamente, 
+Equipe de Cobranças Cofre
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: sombom@mail.com
+Conteúdo: Está feito!! Você é a mais nova assinante do melhor streaming de músicas do mundo!! 
+Para finalizar, vamos criar o seu perfil musical. Acesse nosso app, ou clique aqui.  
+
+Com muita alegria, 
+Equipe SomBom
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: f0t0z@mail.com
+Conteúdo: Voce recebeu uma nova mensagem no FOTOZ, clique aqui!!!
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: s)mb)m@mail.com
+Conteúdo: Pagamento não identificado!!! Clqiue aqui e regularize sua situação
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: shooop10@mail.com
+Conteúdo: VOCE GANHOU UMA GRANDE PROMOÇAO, CLIQUE AQUIU
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: pagorapido@mail.com
+Conteúdo: Prezada Joana, sua fatura do mês já está disponivel no nosso app MeuPagamento. 
+
+Atenciosamente, 
+Equipe da PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: Y@mail.com
+Conteúdo: Veja as novas atualizações do mundo na sua timeline. 
+Conteúdos novos estão te esperando no nosso app Y. 
+
+Atenciosamente, 
+Equipe da Y
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: megafilmes@mail.com
+Conteúdo: Do cinema para a sua casa. 
+O novo filme, Tempo: As 4 Pedras, já está disponivel.
+
+Atenciosamente, 
+Equipe da MegaFilmes
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Pontuação Final: 0
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: ATENÇÃO EU HACKIEI TODOS SEUS DISPOSITIVOS, PRECISO QUE ENTRE EM CONTATO COMIGO AGORA PARA NAO ACONTECER BESTEIRA Clique neste link <www.HACKIEI.com>.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofr#@mail.com
+Conteúdo: Parabens, voce ganhou nossa promoção de verão. Resgate seu prêmio
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: anonimo@mail.com 
+Conteúdo: Minha netinha, estou mandando esse email para falar que irei deixar a minha heranca para voce. voce precisa so assinar esse documento. Preciso disso ate hoje
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: programacaojr@mail.com
+Conteúdo: Olá Joana, recebi seu código para o front-end do menu do novo app da empresa. 
+Estou compartilhando com você as correções que realizei. Continue assim, está indo muito bem!!!   
+
+Atenciosamente, 
+Jasson Júnior 
+Eng. de Software Sênior
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofre@mail.com
+Conteúdo: Prezada Joana, conforme solicitado no nosso app, no dia 12.05, estamos lhe encaminhando o boleto do acordo de sua dívida.
+
+Atenciosamente, 
+Equipe de Cobranças Cofre
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sombom@mail.com
+Conteúdo: Está feito!! Você é a mais nova assinante do melhor streaming de músicas do mundo!! 
+Para finalizar, vamos criar o seu perfil musical. Acesse nosso app, ou clique aqui.  
+
+Com muita alegria, 
+Equipe SomBom
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: f0t0z@mail.com
+Conteúdo: Voce recebeu uma nova mensagem no FOTOZ, clique aqui!!!
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: s)mb)m@mail.com
+Conteúdo: Pagamento não identificado!!! Clqiue aqui e regularize sua situação
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: shooop10@mail.com
+Conteúdo: VOCE GANHOU UMA GRANDE PROMOÇAO, CLIQUE AQUIU
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: pagorapido@mail.com
+Conteúdo: Prezada Joana, sua fatura do mês já está disponivel no nosso app MeuPagamento. 
+
+Atenciosamente, 
+Equipe da PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: Y@mail.com
+Conteúdo: Veja as novas atualizações do mundo na sua timeline. 
+Conteúdos novos estão te esperando no nosso app Y. 
+
+Atenciosamente, 
+Equipe da Y
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: megafilmes@mail.com
+Conteúdo: Do cinema para a sua casa. 
+O novo filme, Tempo: As 4 Pedras, já está disponivel.
+
+Atenciosamente, 
+Equipe da MegaFilmes
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 110
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: ATENÇÃO EU HACKIEI TODOS SEUS DISPOSITIVOS, PRECISO QUE ENTRE EM CONTATO COMIGO AGORA PARA NAO ACONTECER BESTEIRA Clique neste link <www.HACKIEI.com>.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofr#@mail.com
+Conteúdo: Parabens, voce ganhou nossa promoção de verão. Resgate seu prêmio
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: anonimo@mail.com 
+Conteúdo: Minha netinha, estou mandando esse email para falar que irei deixar a minha heranca para voce. voce precisa so assinar esse documento. Preciso disso ate hoje
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: programacaojr@mail.com
+Conteúdo: Olá Joana, recebi seu código para o front-end do menu do novo app da empresa. 
+Estou compartilhando com você as correções que realizei. Continue assim, está indo muito bem!!!   
+
+Atenciosamente, 
+Jasson Júnior 
+Eng. de Software Sênior
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofre@mail.com
+Conteúdo: Prezada Joana, conforme solicitado no nosso app, no dia 12.05, estamos lhe encaminhando o boleto do acordo de sua dívida.
+
+Atenciosamente, 
+Equipe de Cobranças Cofre
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sombom@mail.com
+Conteúdo: Está feito!! Você é a mais nova assinante do melhor streaming de músicas do mundo!! 
+Para finalizar, vamos criar o seu perfil musical. Acesse nosso app, ou clique aqui.  
+
+Com muita alegria, 
+Equipe SomBom
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: f0t0z@mail.com
+Conteúdo: Voce recebeu uma nova mensagem no FOTOZ, clique aqui!!!
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: s)mb)m@mail.com
+Conteúdo: Pagamento não identificado!!! Clqiue aqui e regularize sua situação
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: shooop10@mail.com
+Conteúdo: VOCE GANHOU UMA GRANDE PROMOÇAO, CLIQUE AQUIU
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: pagorapido@mail.com
+Conteúdo: Prezada Joana, sua fatura do mês já está disponivel no nosso app MeuPagamento. 
+
+Atenciosamente, 
+Equipe da PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: Y@mail.com
+Conteúdo: Veja as novas atualizações do mundo na sua timeline. 
+Conteúdos novos estão te esperando no nosso app Y. 
+
+Atenciosamente, 
+Equipe da Y
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: megafilmes@mail.com
+Conteúdo: Do cinema para a sua casa. 
+O novo filme, Tempo: As 4 Pedras, já está disponivel.
+
+Atenciosamente, 
+Equipe da MegaFilmes
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 110
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: f0t0z@mail.com
+Conteúdo: Prezado Lucas, precisamos que você atualize sua conta.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: blUs@Us@@ub3r.com
+Conteúdo: Olá Lucas, houve um problema com sua última compra na BLUSA USA. Clique aqui para resolver.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 0
+Lido: True
+
+Remetente: shop10@mail.com
+Conteúdo: Confira as últimas novidades da Shop10. 
+Acesse nosso app e descubra novas promoções!!
+
+Atenciosamente, 
+Equipe Shop10
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: AVISO!! Eu tenho todoas as suas informações comigo. E irei divulgar os acessos a sua conta do InstaFoto e Z!!! Me dê 10.000 reais até amanhã, e eu nao irei divulgar nada!!!!  
+Clique neste link <www.pagamento-expresso.com> para seguir os passos do pagamento.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: Y@mail.com 
+Conteúdo: Identificamos uma tentativa de acesso a sua conta. 
+Por favor, verifique os dispositivos autorizados da sua conta.
+  
+Cordialmente, 
+Equipe Y de Segurança
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: fAcECarD@mail.com 
+Conteúdo: Recupere a sua senha!! Sua conta foi invadida!!! Entre agora no link abaixo para recuperá-la, pois você em breve perderá os seus dados. www.fAcECarD.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 10
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: AVISO!! Eu tenho todoas as suas informações comigo. E irei divulgar os acessos a sua conta do InstaFoto e Z!!! Me dê 10.000 reais até amanhã, e eu nao irei divulgar nada!!!!  
+Clique neste link <www.pagamento-expresso.com> para seguir os passos do pagamento.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: Y@mail.com 
+Conteúdo: Identificamos uma tentativa de acesso a sua conta. 
+Por favor, verifique os dispositivos autorizados da sua conta.
+  
+Cordialmente, 
+Equipe Y de Segurança
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: fAcECarD@mail.com 
+Conteúdo: Recupere a sua senha!! Sua conta foi invadida!!! Entre agora no link abaixo para recuperá-la, pois você em breve perderá os seus dados. www.fAcECarD.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: ATENÇÃO EU HACKIEI TODOS SEUS DISPOSITIVOS, PRECISO QUE ENTRE EM CONTATO COMIGO AGORA PARA NAO ACONTECER BESTEIRA Clique neste link <www.HACKIEI.com>.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofr#@mail.com
+Conteúdo: Parabens, voce ganhou nossa promoção de verão. Resgate seu prêmio
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: anonimo@mail.com 
+Conteúdo: Minha netinha, estou mandando esse email para falar que irei deixar a minha heranca para voce. voce precisa so assinar esse documento. Preciso disso ate hoje
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: programacaojr@mail.com
+Conteúdo: Olá Joana, recebi seu código para o front-end do menu do novo app da empresa. 
+Estou compartilhando com você as correções que realizei. Continue assim, está indo muito bem!!!   
+
+Atenciosamente, 
+Jasson Júnior 
+Eng. de Software Sênior
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofre@mail.com
+Conteúdo: Prezada Joana, conforme solicitado no nosso app, no dia 12.05, estamos lhe encaminhando o boleto do acordo de sua dívida.
+
+Atenciosamente, 
+Equipe de Cobranças Cofre
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sombom@mail.com
+Conteúdo: Está feito!! Você é a mais nova assinante do melhor streaming de músicas do mundo!! 
+Para finalizar, vamos criar o seu perfil musical. Acesse nosso app, ou clique aqui.  
+
+Com muita alegria, 
+Equipe SomBom
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: f0t0z@mail.com
+Conteúdo: Voce recebeu uma nova mensagem no FOTOZ, clique aqui!!!
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: s)mb)m@mail.com
+Conteúdo: Pagamento não identificado!!! Clqiue aqui e regularize sua situação
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: shooop10@mail.com
+Conteúdo: VOCE GANHOU UMA GRANDE PROMOÇAO, CLIQUE AQUIU
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: pagorapido@mail.com
+Conteúdo: Prezada Joana, sua fatura do mês já está disponivel no nosso app MeuPagamento. 
+
+Atenciosamente, 
+Equipe da PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: Y@mail.com
+Conteúdo: Veja as novas atualizações do mundo na sua timeline. 
+Conteúdos novos estão te esperando no nosso app Y. 
+
+Atenciosamente, 
+Equipe da Y
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: megafilmes@mail.com
+Conteúdo: Do cinema para a sua casa. 
+O novo filme, Tempo: As 4 Pedras, já está disponivel.
+
+Atenciosamente, 
+Equipe da MegaFilmes
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 110
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Traga seu sálario para o seu banco preferido! 
+Para finalizar essa etapa, preencha o restante do fórmulario no app Meu Pagamento. 
+
+Atenciosamente, 
+Mara Rebouças 
+Gerente de relacionamento Banco PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Remetente: santoandre@mail.com
+Conteúdo: Segue o estrato desse mes no site: www.santoandre.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: financeirojr@mail.com 
+Conteúdo: Segue em anexo a planilha com o faturamento desse mês.
+
+Atenciosamente, 
+Mauro Pontes 
+Assistente Financeiro
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: pagorapido@mail.com
+Conteúdo: Olá Hannah, seu pagamento foi confirmado. 
+Obrigado por usar o PagoRapido.  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: santoandre@mail.com
+Conteúdo: Olá, houve um problema com seu pagamento. Clique aqui para resolver: www.santoandre.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: shop10@de11.com 
+Conteúdo: Confira nossas super promoções no site www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: fotoz@mail.com
+Conteúdo: Prezada Hannah, detectamos uma nova atividade na sua conta. 
+Se não foi você, entre em contato conosco. 
+
+Atenciosamente, 
+Equipe da Fotoz
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rostinho@mail.com
+Conteúdo: Você recebeu uma nova mensagem no seu Rostinho. 
+Acesse sua conta para ler.
+
+Atenciosamente,
+Equipe do Rostinho
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: f0t0Z@mail.com
+Conteúdo: Prezado Hannah, precisamos que você atualize suas informações pessoais. 
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: financagr@mail.com
+Conteúdo: Prezada Hannah, precisamos que você nós mande todos os seus dados para listarmos no quadro de funcionarios nesse email
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: Y@mail.com
+Conteúdo: URGÊNCIA!!! 
+Prezada Hannah, sua conta será suspensa se não agir agora. Clique aqui para resolver: WWW.YY.COM
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: blusausa@mail,com
+Conteúdo: Aproveite nosso desconto exclusivo antes que ele acabe. 
+Inscreva-se agora no nosso site!!!
+
+Atenciosamente, 
+Blusa Usa
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 100
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Pontuação Final: 10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: f0t0z@mail.com
+Conteúdo: Prezado Lucas, precisamos que você atualize sua conta.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: blUs@Us@@ub3r.com
+Conteúdo: Olá Lucas, houve um problema com sua última compra na BLUSA USA. Clique aqui para resolver.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: shop10@mail.com
+Conteúdo: Confira as últimas novidades da Shop10. 
+Acesse nosso app e descubra novas promoções!!
+
+Atenciosamente, 
+Equipe Shop10
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: Y@mail.com
+Conteúdo: Prezada Joana, seu perfil no Y foi atualizado. 
+Consulte os detalhes no nosso site, ou acesse o link: www.Y.com/meuperfil. 
+
+Atenciosamente, 
+Equipe Y
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: programaçãojr@mail.com
+Conteúdo: Olá Joana, estou compartilhado com você o novo projeto da empresa. 
+Acesse o link abaixo:
+www.github.com/newprojectJR
+
+Atenciosamente, 
+Jasson Júnior 
+Eng. de Software Sênior
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: p0p@mail.com
+Conteúdo: EMERGENCIA!!! 
+Precisamos que você verifique uma atividade suspeita. Clique aqui.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 20
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: AVISO!! Eu tenho todoas as suas informações comigo. E irei divulgar os acessos a sua conta do InstaFoto e Z!!! Me dê 10.000 reais até amanhã, e eu nao irei divulgar nada!!!!  
+Clique neste link <www.pagamento-expresso.com> para seguir os passos do pagamento.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: Y@mail.com 
+Conteúdo: Identificamos uma tentativa de acesso a sua conta. 
+Por favor, verifique os dispositivos autorizados da sua conta.
+  
+Cordialmente, 
+Equipe Y de Segurança
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: fAcECarD@mail.com 
+Conteúdo: Recupere a sua senha!! Sua conta foi invadida!!! Entre agora no link abaixo para recuperá-la, pois você em breve perderá os seus dados. www.fAcECarD.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 20
+=====================================
+Resultados da Fase:
+Remetente: anonimo@mail.com
+Conteúdo: ATENÇÃO EU HACKIEI TODOS SEUS DISPOSITIVOS, PRECISO QUE ENTRE EM CONTATO COMIGO AGORA PARA NAO ACONTECER BESTEIRA Clique neste link <www.HACKIEI.com>.
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofr#@mail.com
+Conteúdo: Parabens, voce ganhou nossa promoção de verão. Resgate seu prêmio
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: anonimo@mail.com 
+Conteúdo: Minha netinha, estou mandando esse email para falar que irei deixar a minha heranca para voce. voce precisa so assinar esse documento. Preciso disso ate hoje
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: programacaojr@mail.com
+Conteúdo: Olá Joana, recebi seu código para o front-end do menu do novo app da empresa. 
+Estou compartilhando com você as correções que realizei. Continue assim, está indo muito bem!!!   
+
+Atenciosamente, 
+Jasson Júnior 
+Eng. de Software Sênior
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: cofre@mail.com
+Conteúdo: Prezada Joana, conforme solicitado no nosso app, no dia 12.05, estamos lhe encaminhando o boleto do acordo de sua dívida.
+
+Atenciosamente, 
+Equipe de Cobranças Cofre
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sombom@mail.com
+Conteúdo: Está feito!! Você é a mais nova assinante do melhor streaming de músicas do mundo!! 
+Para finalizar, vamos criar o seu perfil musical. Acesse nosso app, ou clique aqui.  
+
+Com muita alegria, 
+Equipe SomBom
+É Phishing: False
+Marcado como Phishing: True
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Remetente: f0t0z@mail.com
+Conteúdo: Voce recebeu uma nova mensagem no FOTOZ, clique aqui!!!
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: s)mb)m@mail.com
+Conteúdo: Pagamento não identificado!!! Clqiue aqui e regularize sua situação
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 1
+Lido: True
+
+Remetente: shooop10@mail.com
+Conteúdo: VOCE GANHOU UMA GRANDE PROMOÇAO, CLIQUE AQUIU
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: pagorapido@mail.com
+Conteúdo: Prezada Joana, sua fatura do mês já está disponivel no nosso app MeuPagamento. 
+
+Atenciosamente, 
+Equipe da PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: Y@mail.com
+Conteúdo: Veja as novas atualizações do mundo na sua timeline. 
+Conteúdos novos estão te esperando no nosso app Y. 
+
+Atenciosamente, 
+Equipe da Y
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: megafilmes@mail.com
+Conteúdo: Do cinema para a sua casa. 
+O novo filme, Tempo: As 4 Pedras, já está disponivel.
+
+Atenciosamente, 
+Equipe da MegaFilmes
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 90
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Traga seu sálario para o seu banco preferido! 
+Para finalizar essa etapa, preencha o restante do fórmulario no app Meu Pagamento. 
+
+Atenciosamente, 
+Mara Rebouças 
+Gerente de relacionamento Banco PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: santoandre@mail.com
+Conteúdo: Segue o estrato desse mes no site: www.santoandre.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: financeirojr@mail.com 
+Conteúdo: Segue em anexo a planilha com o faturamento desse mês.
+
+Atenciosamente, 
+Mauro Pontes 
+Assistente Financeiro
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: pagorapido@mail.com
+Conteúdo: Olá Hannah, seu pagamento foi confirmado. 
+Obrigado por usar o PagoRapido.  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: santoandre@mail.com
+Conteúdo: Olá, houve um problema com seu pagamento. Clique aqui para resolver: www.santoandre.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: shop10@de11.com 
+Conteúdo: Confira nossas super promoções no site www.shop10.com
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: fotoz@mail.com
+Conteúdo: Prezada Hannah, detectamos uma nova atividade na sua conta. 
+Se não foi você, entre em contato conosco. 
+
+Atenciosamente, 
+Equipe da Fotoz
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: rostinho@mail.com
+Conteúdo: Você recebeu uma nova mensagem no seu Rostinho. 
+Acesse sua conta para ler.
+
+Atenciosamente,
+Equipe do Rostinho
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: f0t0Z@mail.com
+Conteúdo: Prezado Hannah, precisamos que você atualize suas informações pessoais. 
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: financagr@mail.com
+Conteúdo: Prezada Hannah, precisamos que você nós mande todos os seus dados para listarmos no quadro de funcionarios nesse email
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: Y@mail.com
+Conteúdo: URGÊNCIA!!! 
+Prezada Hannah, sua conta será suspensa se não agir agora. Clique aqui para resolver: WWW.YY.COM
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Remetente: blusausa@mail,com
+Conteúdo: Aproveite nosso desconto exclusivo antes que ele acabe. 
+Inscreva-se agora no nosso site!!!
+
+Atenciosamente, 
+Blusa Usa
+É Phishing: False
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 2
+Lido: False
+
+Pontuação Final: 10
+=====================================
+Resultados da Fase:
+Remetente: pagorapido@mail.com
+Conteúdo: Não se esqueça de pagar a fatura desse mês! 
+Caso queira obter a 2ª via do seu boleto, acesse o nosso site: www.pagorapido.com.br  
+
+Atenciosamente, 
+Equipe PagoRapido
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Remetente: sh00p10@mail.com
+Conteúdo: Compra confirmada!!! 
+Para acompanhar o seu pedido, acesso o link: www.shop10.com
+É Phishing: True
+Marcado como Phishing: True
+Correto: True
+Tentativas restantes: 0
+Lido: True
+
+Remetente: rhjr@mail.com
+Conteúdo: Preciso dos seus dados, para finalizar o seu contrato no RH. Trata-se do seu nome completo, CPF, número da Carteira de Trabalho e endereço residencial. 
+Por gentileza, me envie até a tarde de hoje.  
+
+Atenciosamente, 
+Ana Rosa Soares
+ Analista de RH
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 30
+=====================================
+Resultados da Fase:
+Remetente: f0t0z@mail.com
+Conteúdo: Prezado Lucas, precisamos que você atualize sua conta.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: blUs@Us@@ub3r.com
+Conteúdo: Olá Lucas, houve um problema com sua última compra na BLUSA USA. Clique aqui para resolver.
+É Phishing: True
+Marcado como Phishing: False
+Correto: False
+Tentativas restantes: 0
+Lido: True
+
+Remetente: shop10@mail.com
+Conteúdo: Confira as últimas novidades da Shop10. 
+Acesse nosso app e descubra novas promoções!!
+
+Atenciosamente, 
+Equipe Shop10
+É Phishing: False
+Marcado como Phishing: False
+Correto: True
+Tentativas restantes: 1
+Lido: True
+
+Pontuação Final: 10
+=====================================
