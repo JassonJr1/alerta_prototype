@@ -40,6 +40,12 @@ O projeto **Alerta** é um jogo que combina mecânicas interativas com um conte�
 - **Unity 3D**: Ferramenta principal usada para o desenvolvimento do jogo.
 - **C#**: Linguagem de programação utilizada para escrever os scripts.
 
+## Repositório da Versão Build
+
+Você pode acessar o repositório contendo a versão compilada do jogo para PC no seguinte link:
+
+[Alerta - Build para PC](https://github.com/JassonJr1/alerta_prototype-ver1-/tree/main)
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
